@@ -1,2 +1,2 @@
-# bharat-intern_task1
+# codeclause project1
 SMS Classifier
